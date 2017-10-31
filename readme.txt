@@ -4,3 +4,4 @@ Git is a shit !!!!
 Git has a mutable index called stage.
 roll test..
 Creating a new branch is 'feature1'.
+branch test 02 - add no conflict line.
